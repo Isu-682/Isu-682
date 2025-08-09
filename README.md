@@ -1,13 +1,4 @@
-- 👋 Hi, I'm @Isu-682
-- 👀 learning new programming languages
-- 🌱 I'm currently studying
-- 📫 You can contact me right here
-- I can speak a little English
-- I can speak Spanish (native)
-
-
 # Hi! I'm ISU a student from Mexico
-
 
 
 ## 🚀 About Me
