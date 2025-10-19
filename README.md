@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">👋 Hi! I'm ISU</h2>
+<h2 align="center"># 👋 Hi! I'm ISU</h2>
 
 ###
 
@@ -22,11 +22,7 @@
 
 ###
 
-<h4 align="left">🚀 About Me</h4>
-
-###
-
-<p align="left">- 🎓 Currently studying **Systems Engineering**.<br>- 💡 I enjoy learning about **web development** and **software engineering**.<br>- 💻 My favorite hobby is learning new programming concepts and practicing them.<br>- 🤝 I like working on projects — both personal ideas and school assignments.<br>- 🌍 Native Spanish speaker, and I like to practice and improve my English.</p>
+<h4 align="left">## 🚀 About Me</h4>
 
 ###
 
@@ -34,15 +30,19 @@
 
 ###
 
-<h4 align="left">🛠️ Tech Skills</h4>
+<p align="left">- 🎓 Currently studying **Systems Engineering**.<br>- 💡 I enjoy learning about **web development** and **software engineering**.<br>- 💻 My favorite hobby is learning new programming concepts and practicing them.<br>- 🤝 I like working on projects — both personal ideas and school assignments.<br>- 🌍 Native Spanish speaker, and I like to practice and improve my English.</p>
 
 ###
 
-<p align="left">Here are the technologies I'm currently learning and using:<br><br>- Frontend: HTML, CSS<br>- Backend / Programming: C#<br>- Databases: SQL Server (basic knowledge, using SQL Server Management Studio)<br><br>I'm always looking to improve and expand this list as I learn more!</p>
+<h4 align="left">## 🛠️ Tech Skills</h4>
 
 ###
 
-<h4 align="left">📘 Projects</h4>
+<p align="left">Here are the technologies I'm currently learning and using:<br><br>- **Frontend:** HTML, CSS<br>- **Backend / Programming:** C#<br>- **Databases:** SQL Server (basic knowledge, using SQL Server Management Studio)<br><br>I'm always looking to improve and expand this list as I learn more!</p>
+
+###
+
+<h4 align="left">## 📘 Projects</h4>
 
 ###
 
