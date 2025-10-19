@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center"># 👋 Hi! I'm ISU</h2>
+<h2 align="center">#👋 Hi! I'm ISU</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">## 🚀 About Me</h4>
+<h4 align="left">##🚀 About Me</h4>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">## 🛠️ Tech Skills</h4>
+<h4 align="left">##🛠️ Tech Skills</h4>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h4 align="left">## 📘 Projects</h4>
+<h4 align="left">##📘 Projects</h4>
 
 ###
 
