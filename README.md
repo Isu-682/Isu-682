@@ -18,10 +18,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <p align="center">I'm a **Systems Engineering student** from 🇲🇽 **Mexico**, passionate about technology and coding.</p>
 
 ###
@@ -31,6 +27,10 @@
 ###
 
 <p align="left">- 🎓 Currently studying **Systems Engineering**.<br>- 💡 I enjoy learning about **web development** and **software engineering**.<br>- 💻 My favorite hobby is learning new programming concepts and practicing them.<br>- 🤝 I like working on projects — both personal ideas and school assignments.<br>- 🌍 Native Spanish speaker, and I like to practice and improve my English.</p>
+
+###
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
