@@ -1,28 +1,72 @@
-# Hi! I'm ISU a student from Mexico
-
-
-## 🚀 About Me
-I'm a Systems Engineering student in Mexico.
-
-My favorite hobby is learning new codes and practicing them.
-
-I like trying to create my own projects or in groups.
-
-I enjoy web development and databases.
-
-Spanish is my native language, I like to practice English a lot.
-
-<!---
-Isu-682/Isu-682 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isu-682&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isu-682&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=Isu-682&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Isu-682's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isu-682&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Isu-682's GitHub Stats" />
--->
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" alt="csharp logo"  />
+</div>
+
+###
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<h2 align="center"># 👋 Hi! I'm ISU</h2>
+
+###
+
+<p align="center">I'm a **Systems Engineering student** from 🇲🇽 **Mexico**, passionate about technology and coding.</p>
+
+###
+
+<h4 align="left">## 🚀 About Me</h4>
+
+###
+
+<p align="left">- 🎓 Currently studying **Systems Engineering**.<br>- 💡 I enjoy learning about **web development** and **software engineering**.<br>- 💻 My favorite hobby is learning new programming concepts and practicing them.<br>- 🤝 I like working on projects — both personal ideas and school assignments.<br>- 🌍 Native Spanish speaker, and I like to practice and improve my English.</p>
+
+###
+
+<h4 align="left">## 🛠️ Tech Skills</h4>
+
+###
+
+<p align="left">Here are the technologies I'm currently learning and using:<br><br>- **Frontend:** HTML, CSS<br>- **Backend / Programming:** C#<br>- **Databases:** SQL Server (basic knowledge, using SQL Server Management Studio)<br><br>I'm always looking to improve and expand this list as I learn more!</p>
+
+###
+
+<h4 align="left">## 📘 Projects</h4>
+
+###
+
+<p align="left">Most of my current projects are part of school practices and coursework. I'm working on building personal projects soon to apply what I've learned.<br><br>---<br><br>Thanks for visiting my profile! 🚀</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isu-682&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isu-682&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isu-682/Isu-682/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isu-682/Isu-682/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Isu-682/Isu-682/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
