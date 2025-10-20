@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Here are the technologies I'm currently learning and using:<br><br>- **Frontend:** HTML, CSS<br>- **Backend / Programming:** C#<br>- **Databases:** SQL Server (basic knowledge, using SQL Server Management Studio)<br><br>I'm always looking to improve and expand this list as I learn more!</p>
+<p align="left">Here are the technologies I'm currently learning and using:<br><br>- Frontend: HTML, CSS<br>- Backend / Programming: C#<br>- Databases: SQL Server (basic knowledge, using SQL Server Management Studio)<br><br>I'm always looking to improve and expand this list as I learn more!</p>
 
 ###
 
