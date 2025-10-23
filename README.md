@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi!%20I'm%20ISU&fontSize=60&fontColor=bc544b&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=cf010b"  />
 </div>
 
 ###
@@ -16,11 +16,7 @@
 
 ###
 
-<h2 align="center"> 👋 Hi! I'm ISU</h2>
-
-###
-
-<p align="center">I'm a **Systems Engineering student** from 🇲🇽 **Mexico**, passionate about technology and coding.</p>
+<h2 align="center">I'm a **Systems Engineering student** from 🇲🇽 **Mexico**, passionate about technology and coding.</h2>
 
 ###
 
@@ -60,7 +56,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=cf010b"  />
 </div>
 
 ###
