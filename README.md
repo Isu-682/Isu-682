@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="200" src="p6rgphdlldcb1.gif"  />
+<img align="right" height="300" src="p6rgphdlldcb1.gif"  />
 
 ###
 
